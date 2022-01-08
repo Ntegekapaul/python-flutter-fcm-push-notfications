@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385597403126",
+    "project_id": "cubes-c4363",
+    "storage_bucket": "cubes-c4363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385597403126:android:3992fe35f1f5b5b1c7a1d7",
+        "android_client_info": {
+          "package_name": "com.graph25.cubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385597403126-d9aihtukmsdfh37feo15kenkkj3ad01e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyxtIzhzah2xYBR827i7gf-QeMhyOy6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385597403126-d9aihtukmsdfh37feo15kenkkj3ad01e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
